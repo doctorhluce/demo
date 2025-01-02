@@ -14,3 +14,5 @@ data(TIPS)
 
 # regression
 source("https://tinyurl.com/zwbfmr4c")
+
+# regwrap function
